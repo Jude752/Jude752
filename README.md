@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/jude_fernandov" target="blank"><img src="https://img.shields.io/twitter/follow/jude_fernandov?logo=twitter&style=for-the-badge" alt="jude_fernandov" /></a> </p>
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
 
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+<p><img align="right" src="https://github.com/Jude752/Jude752/blob/main/icons/animation_500_kxa883sd.gif" alt="deskIcon" /></p>
 
 
 
