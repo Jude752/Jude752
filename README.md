@@ -46,8 +46,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-  
-   <a href="https://github.com/Jude752"><img alt="Jude's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jude752&custom_title=SubhadeepZilong's%20Contribution%20Graph&theme=react-dark" /></a>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
