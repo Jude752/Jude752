@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Software Engineering student in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jude752&label=Profile%20views&color=0e75b6&style=flat" alt="jude752" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jude752" alt="jude752" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jude_fernandov" target="blank"><img src="https://img.shields.io/twitter/follow/jude_fernandov?logo=twitter&style=for-the-badge" alt="jude_fernandov" /></a> </p>
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
 
 <p><img align="right" src="https://github.com/Jude752/Jude752/blob/main/icons/animation_500_kxa883sd.gif" alt="deskIcon" /></p>
@@ -31,6 +27,35 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jude752&show_icons=true&locale=en&layout=compact" alt="jude752" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jude752&show_icons=true&locale=en" alt="jude752" /></p>
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jude752&theme=algolia" alt="SubhadeepZilong" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jude752&" alt="jude752" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+ <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jude752&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jude752&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhadeepZilong" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  
+   <a href="https://github.com/Jude752"><img alt="Jude's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jude752&custom_title=SubhadeepZilong's%20Contribution%20Graph&theme=react-dark" /></a>
+   
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## :trophy: Git Profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jude752&layout=compact&theme=algolia" alt="Jude" /></a> </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+## 
