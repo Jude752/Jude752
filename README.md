@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jude</h1>
-<h3 align="center">A passionate Software Engineering student in Sri Lanka</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jude752&label=Profile%20views&color=0e75b6&style=flat" alt="jude752" />
-</p>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Aspiring+Developer;Eager+to+learn+new+things&center=true&width=500&height=50" />
@@ -12,8 +6,18 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jude752&label=Profile%20views&color=0e75b6&style=flat" alt="jude752" />
+</p>
+
+
+
+<p align="center">
   <img align="right" src="https://github.com/Jude752/Jude752/blob/main/icons/animation_500_kxa883sd.gif" alt="deskIcon" />
 </p>
+
+###🌟 About Me
+
+I am a committed, enthusiastic, and hardworking Software Engineering student at the Open University of Sri Lanka (OUSL) with a passion for creating efficient and innovative solutions. I have developed a responsible approach to any task that I undertake. Computer literate with excellent communication and interpersonal skills. Seeking an opportunity to work where I can improve my skills, practice my knowledge, develop new skills, and gain valuable experience. Eager to contribute strong technical skills and a collaborative mindset to a dynamic development team.
 
 - 🔭 I’m currently working on [CodSoft internship projects](https://github.com/Jude752/CODSOFT.git)
 
