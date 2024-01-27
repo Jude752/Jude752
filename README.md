@@ -15,7 +15,7 @@
   <img align="right" src="https://github.com/Jude752/Jude752/blob/main/icons/animation_500_kxa883sd.gif" alt="deskIcon" />
 </p>
 
-###🌟 About Me
+### 🌟 About Me
 
 I am a committed, enthusiastic, and hardworking Software Engineering student at the Open University of Sri Lanka (OUSL) with a passion for creating efficient and innovative solutions. I have developed a responsible approach to any task that I undertake. Computer literate with excellent communication and interpersonal skills. Seeking an opportunity to work where I can improve my skills, practice my knowledge, develop new skills, and gain valuable experience. Eager to contribute strong technical skills and a collaborative mindset to a dynamic development team.
 
