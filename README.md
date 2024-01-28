@@ -21,8 +21,8 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
 
 - 🔭 I’m currently working on [CodSoft internship projects](https://github.com/Jude752/CODSOFT.git)
 
-- 📫 How to reach me **vjudefernando@gmail.com**
-- 
+- 📫 How to reach me *vjudefernando@gmail.com*
+
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> Featured Repositories
 
 1. [**WalletFriendlyApp**](https://github.com/Jude752/WalletFriendlyApp) - An Android budgeting application designed for intuitive expense tracking, budget planning, and effective savings strategies.
@@ -43,7 +43,6 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
 
 9. [**Typing Speed Test**](https://github.com/Jude752/typing-speed-test) - Measure and improve your typing skills with this typing speed test application.
 
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p align="left">
@@ -60,7 +59,7 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
   </a>
 
   <a href="https://instagram.com/__jude.f__?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__jude.f__" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jude.f_" height="30" width="40" />
   </a>
 
   <a href="https://www.youtube.com/@judefernandov" target="blank">
@@ -68,7 +67,8 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
   </a>
 </p>
 
-## <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> Streak Stats
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Languages and Tools:
+
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="30"/>
@@ -149,8 +149,7 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://tenor.com/bj5ob.gif" width="30px"> Streak Stats
-
+## 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jude752&theme=algolia" alt="JUDE" />
 </p>
