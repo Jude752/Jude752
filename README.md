@@ -23,7 +23,7 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
 
 - 📫 How to reach me **vjudefernando@gmail.com**
 - 
-## 👨‍💻 Featured Repositories
+## (https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif) Featured Repositories
 
 1. [**WalletFriendlyApp**](https://github.com/Jude752/WalletFriendlyApp) - An Android budgeting application designed for intuitive expense tracking, budget planning, and effective savings strategies.
 
