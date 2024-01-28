@@ -24,45 +24,25 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
 - 📫 How to reach me **vjudefernando@gmail.com**
 - 
 ## 👨‍💻 Featured Repositories
+## 👨‍💻 Featured Repositories
 
-1. [**WalletFriendlyApp**](https://github.com/Jude752/WalletFriendlyApp) - The WALLET-FRIENDLY Budgeting Application
+1. [**WalletFriendlyApp**](https://github.com/Jude752/WalletFriendlyApp) - An Android budgeting application designed for intuitive expense tracking, budget planning, and effective savings strategies.
 
-## Description
+2. [**Bus-Pass-Qr-coded**](https://github.com/Jude752/Bus-Pass-Qr-coded) - A project focused on implementing a bus pass system using QR codes for efficient and secure access.
 
-WalletFriendlyApp is an Android application designed to revolutionize personal finance management. Empowering users with features such as intuitive budget planning, smart expense tracking, and integration with Google Maps, it provides a comprehensive solution for individuals striving to achieve financial well-being.
+3. [**Pharmacy Inventory Management**](https://github.com/Jude752/pharmacy_inventory_management) - PHP-based inventory management system for pharmacies, enabling seamless management of medicines, orders, staff, and suppliers.
 
-Explore the repository to dive into the source code and witness how WALLET-FRIENDLY simplifies budgeting, encourages informed financial decisions, and promotes effective savings strategies.
+4. [**CodSoft-Java**](https://github.com/Jude752/CodSoft-Java) - A repository featuring three Java projects: Number Game, Student Grade Calculator, and ATM Machine, each designed for specific tasks.
 
-2. [**Bus-Pass-Qr-coded**](https://github.com/Jude752/Bus-Pass-Qr-coded) - Description goes here.
+5. [**Stop Watch**](https://github.com/Jude752/stop-watch) - A simple and accurate stopwatch implemented in a user-friendly web version.
 
-3. [**Pharmacy Inventory Management**](https://github.com/Jude752/pharmacy_inventory_management) - Description goes here.
+6. [**Calculator Web Version**](https://github.com/Jude752/calculator-web-version) - A web-based calculator with a clean interface and basic arithmetic functions.
 
-4. [**CodSoft-Java**](https://github.com/Jude752/CodSoft-Java) - This repository features three distinct Java projects, each designed to demonstrate specific programming skills and functionalities.
+7. [**To-do List Application**](https://github.com/Jude752/To-do-list-application) - A task management application allowing users to create, edit, and organize their to-do lists efficiently.
 
-   - **Number Game:**
-     - An engaging number guessing game with features such as a limited number of attempts, scoring, and multiple rounds.
+8. [**Rock-Paper-Scissors Game**](https://github.com/Jude752/Rock-Paper-Scissors-game) - Implementation of the classic rock-paper-scissors game with a user-friendly interface.
 
-   - **Student Grade Calculator:**
-     - A program for calculating total marks, average percentage, and assigning grades based on input marks for various subjects.
-
-   - **ATM Machine:**
-     - Implementation of a simple ATM machine with user interface options for checking balance, depositing, withdrawing, and more. Includes validation for secure transactions.
-
-   Explore each project's source code for a detailed understanding of the implementations.
-
-5. [**Stop Watch**](https://github.com/Jude752/stop-watch) - Description goes here.
-
-6. [**Calculator Web Version**](https://github.com/Jude752/calculator-web-version) - Description goes here.
-
-7. [**To-do List Application**](https://github.com/Jude752/To-do-list-application) - Description goes here.
-
-8. [**Rock-Paper-Scissors Game**](https://github.com/Jude752/Rock-Paper-Scissors-game) - Description goes here.
-
-9. [**Typing Speed Test**](https://github.com/Jude752/typing-speed-test) - Description goes here.
-
-<!-- Add more repositories as needed -->
-
-
+9. [**Typing Speed Test**](https://github.com/Jude752/typing-speed-test) - A typing speed test application to measure and improve your typing skills.
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
