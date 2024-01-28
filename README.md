@@ -177,7 +177,7 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## :trophy: Git Profile Trophies
+## <img src="https://github.com/Jude752/Jude752/blob/main/icons/512%20(4).gif" width="30px"> Git Profile Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Jude752&layout=compact&theme=algolia" alt="Jude" />
