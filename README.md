@@ -12,7 +12,8 @@
 
 
 <p align="center">
-  <img align="right" src="https://github.com/Jude752/Jude752/blob/main/icons/animation_500_kxa883sd.gif" alt="deskIcon" />
+  <img align="right" src="https://github.com/Jude752/Jude752/blob/main/icons/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" alt="deskIcon" />
+  
 </p>
 
 ### <img src="https://github.com/Jude752/Jude752/blob/main/icons/512%20(2).gif" width="30px"> About Me
