@@ -24,25 +24,24 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
 - 📫 How to reach me **vjudefernando@gmail.com**
 - 
 ## 👨‍💻 Featured Repositories
-## 👨‍💻 Featured Repositories
 
 1. [**WalletFriendlyApp**](https://github.com/Jude752/WalletFriendlyApp) - An Android budgeting application designed for intuitive expense tracking, budget planning, and effective savings strategies.
 
-2. [**Bus-Pass-Qr-coded**](https://github.com/Jude752/Bus-Pass-Qr-coded) - A project focused on implementing a bus pass system using QR codes for efficient and secure access.
+2. [**Bus-Pass-Qr-coded**](https://github.com/Jude752/Bus-Pass-Qr-coded) - Implementing a bus pass system using QR codes for efficient and secure access.
 
-3. [**Pharmacy Inventory Management**](https://github.com/Jude752/pharmacy_inventory_management) - PHP-based inventory management system for pharmacies, enabling seamless management of medicines, orders, staff, and suppliers.
+3. [**Pharmacy Inventory Management**](https://github.com/Jude752/pharmacy_inventory_management) - PHP-based inventory management system for pharmacies, enabling seamless handling of medicines, orders, staff, and suppliers.
 
-4. [**CodSoft-Java**](https://github.com/Jude752/CodSoft-Java) - A repository featuring three Java projects: Number Game, Student Grade Calculator, and ATM Machine, each designed for specific tasks.
+4. [**CodSoft-Java**](https://github.com/Jude752/CodSoft-Java) - Featuring three Java projects: Number Game, Student Grade Calculator, and ATM Machine, each designed for specific tasks.
 
 5. [**Stop Watch**](https://github.com/Jude752/stop-watch) - A simple and accurate stopwatch implemented in a user-friendly web version.
 
-6. [**Calculator Web Version**](https://github.com/Jude752/calculator-web-version) - A web-based calculator with a clean interface and basic arithmetic functions.
+6. [**Calculator Web Version**](https://github.com/Jude752/calculator-web-version) - A web-based calculator with a clean interface, supporting basic arithmetic functions and unit conversion.
 
-7. [**To-do List Application**](https://github.com/Jude752/To-do-list-application) - A task management application allowing users to create, edit, and organize their to-do lists efficiently.
+7. [**To-do List Application**](https://github.com/Jude752/To-do-list-application) - Efficient task management application for creating, editing, and organizing to-do lists.
 
-8. [**Rock-Paper-Scissors Game**](https://github.com/Jude752/Rock-Paper-Scissors-game) - Implementation of the classic rock-paper-scissors game with a user-friendly interface.
+8. [**Rock-Paper-Scissors Game**](https://github.com/Jude752/Rock-Paper-Scissors-game) - Classic rock-paper-scissors game implementation with a user-friendly interface.
 
-9. [**Typing Speed Test**](https://github.com/Jude752/typing-speed-test) - A typing speed test application to measure and improve your typing skills.
+9. [**Typing Speed Test**](https://github.com/Jude752/typing-speed-test) - Measure and improve your typing skills with this typing speed test application.
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
