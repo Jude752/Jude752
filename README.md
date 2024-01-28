@@ -23,27 +23,6 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
 - 🔭 I’m currently working on [CodSoft internship projects](https://github.com/Jude752/CODSOFT.git)
 
 - 📫 How to reach me *vjudefernando@gmail.com*
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> Featured Repositories
-
-1. [**WalletFriendlyApp**](https://github.com/Jude752/WalletFriendlyApp) - An Android budgeting application designed for intuitive expense tracking, budget planning, and effective savings strategies.
-
-2. [**Bus-Pass-Qr-coded**](https://github.com/Jude752/Bus-Pass-Qr-coded) - Implementing a bus pass system using QR codes for efficient and secure access.
-
-3. [**Pharmacy Inventory Management**](https://github.com/Jude752/pharmacy_inventory_management) - PHP-based inventory management system for pharmacies, enabling seamless handling of medicines, orders, staff, and suppliers.
-
-4. [**CodSoft-Java**](https://github.com/Jude752/CodSoft-Java) - Featuring three Java projects: Number Game, Student Grade Calculator, and ATM Machine, each designed for specific tasks.
-
-5. [**Stop Watch**](https://github.com/Jude752/stop-watch) - A simple and accurate stopwatch implemented in a user-friendly web version.
-
-6. [**Calculator Web Version**](https://github.com/Jude752/calculator-web-version) - A web-based calculator with a clean interface, supporting basic arithmetic functions and unit conversion.
-
-7. [**To-do List Application**](https://github.com/Jude752/To-do-list-application) - Efficient task management application for creating, editing, and organizing to-do lists.
-
-8. [**Rock-Paper-Scissors Game**](https://github.com/Jude752/Rock-Paper-Scissors-game) - Classic rock-paper-scissors game implementation with a user-friendly interface.
-
-9. [**Typing Speed Test**](https://github.com/Jude752/typing-speed-test) - Measure and improve your typing skills with this typing speed test application.
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p align="left">
@@ -67,7 +46,29 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jude fernando" height="30" width="40" />
   </a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> Featured Repositories
+
+1. [**WalletFriendlyApp**](https://github.com/Jude752/WalletFriendlyApp) - An Android budgeting application designed for intuitive expense tracking, budget planning, and effective savings strategies.
+
+2. [**Bus-Pass-Qr-coded**](https://github.com/Jude752/Bus-Pass-Qr-coded) - Implementing a bus pass system using QR codes for efficient and secure access.
+
+3. [**Pharmacy Inventory Management**](https://github.com/Jude752/pharmacy_inventory_management) - PHP-based inventory management system for pharmacies, enabling seamless handling of medicines, orders, staff, and suppliers.
+
+4. [**CodSoft-Java**](https://github.com/Jude752/CodSoft-Java) - Featuring three Java projects: Number Game, Student Grade Calculator, and ATM Machine, each designed for specific tasks.
+
+5. [**Stop Watch**](https://github.com/Jude752/stop-watch) - A simple and accurate stopwatch implemented in a user-friendly web version.
+
+6. [**Calculator Web Version**](https://github.com/Jude752/calculator-web-version) - A web-based calculator with a clean interface, supporting basic arithmetic functions and unit conversion.
+
+7. [**To-do List Application**](https://github.com/Jude752/To-do-list-application) - Efficient task management application for creating, editing, and organizing to-do lists.
+
+8. [**Rock-Paper-Scissors Game**](https://github.com/Jude752/Rock-Paper-Scissors-game) - Classic rock-paper-scissors game implementation with a user-friendly interface.
+
+9. [**Typing Speed Test**](https://github.com/Jude752/typing-speed-test) - Measure and improve your typing skills with this typing speed test application.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Languages and Tools:
 
 <p align="left">
@@ -167,7 +168,8 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚡ Top Languages
+## <img src="https://github.com/Jude752/Jude752/blob/main/icons/512%20(3).gif" width="30px"> Top Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jude752&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Jude752" height="192px"/>
   <br/>
