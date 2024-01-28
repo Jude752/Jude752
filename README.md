@@ -158,7 +158,8 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 GitHub Profile Stats
+## <img src="https://github.com/Jude752/Jude752/blob/main/icons/512%20(5).gif" width="30px"> GitHub Profile Stats
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Jude's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jude752&show_icons=true&count_private=true&theme=algolia" height="192px"/>
