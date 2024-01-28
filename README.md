@@ -25,15 +25,44 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
 - 
 ## 👨‍💻 Featured Repositories
 
-- [WalletFriendlyApp](https://github.com/Jude752/WalletFriendlyApp)
-- [Bus-Pass-Qr-coded](https://github.com/Jude752/Bus-Pass-Qr-coded)
-- [pharmacy_inventory_management](https://github.com/Jude752/pharmacy_inventory_management)
-- [CodSoft-Java](https://github.com/Jude752/CodSoft-Java)
-- [stop-watch](https://github.com/Jude752/stop-watch)
-- [calculator-web-version](https://github.com/Jude752/calculator-web-version)
-- [To-do-list-application](https://github.com/Jude752/To-do-list-application)
-- [Rock-Paper-Scissors-game](https://github.com/Jude752/Rock-Paper-Scissors-game)
-- [typing-speed-test](https://github.com/Jude752/typing-speed-test)
+1. [**WalletFriendlyApp**](https://github.com/Jude752/WalletFriendlyApp) - The WALLET-FRIENDLY Budgeting Application
+
+## Description
+
+WalletFriendlyApp is an Android application designed to revolutionize personal finance management. Empowering users with features such as intuitive budget planning, smart expense tracking, and integration with Google Maps, it provides a comprehensive solution for individuals striving to achieve financial well-being.
+
+Explore the repository to dive into the source code and witness how WALLET-FRIENDLY simplifies budgeting, encourages informed financial decisions, and promotes effective savings strategies.
+
+2. [**Bus-Pass-Qr-coded**](https://github.com/Jude752/Bus-Pass-Qr-coded) - Description goes here.
+
+3. [**Pharmacy Inventory Management**](https://github.com/Jude752/pharmacy_inventory_management) - Description goes here.
+
+4. [**CodSoft-Java**](https://github.com/Jude752/CodSoft-Java) - This repository features three distinct Java projects, each designed to demonstrate specific programming skills and functionalities.
+
+   - **Number Game:**
+     - An engaging number guessing game with features such as a limited number of attempts, scoring, and multiple rounds.
+
+   - **Student Grade Calculator:**
+     - A program for calculating total marks, average percentage, and assigning grades based on input marks for various subjects.
+
+   - **ATM Machine:**
+     - Implementation of a simple ATM machine with user interface options for checking balance, depositing, withdrawing, and more. Includes validation for secure transactions.
+
+   Explore each project's source code for a detailed understanding of the implementations.
+
+5. [**Stop Watch**](https://github.com/Jude752/stop-watch) - Description goes here.
+
+6. [**Calculator Web Version**](https://github.com/Jude752/calculator-web-version) - Description goes here.
+
+7. [**To-do List Application**](https://github.com/Jude752/To-do-list-application) - Description goes here.
+
+8. [**Rock-Paper-Scissors Game**](https://github.com/Jude752/Rock-Paper-Scissors-game) - Description goes here.
+
+9. [**Typing Speed Test**](https://github.com/Jude752/typing-speed-test) - Description goes here.
+
+<!-- Add more repositories as needed -->
+
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
