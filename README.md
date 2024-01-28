@@ -22,6 +22,21 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
 - 🔭 I’m currently working on [CodSoft internship projects](https://github.com/Jude752/CODSOFT.git)
 
 - 📫 How to reach me **vjudefernando@gmail.com**
+- 
+## 👨‍💻 Featured Repositories
+
+- [CodSoft-Java](https://github.com/Jude752/CodSoft-Java)
+- [CodSoft-Javap](https://github.com/Jude752/CodSoft-Javap)
+- [Jude752](https://github.com/Jude752/Jude752)
+- [stop-watch](https://github.com/Jude752/stop-watch)
+- [calculator-web-version](https://github.com/Jude752/calculator-web-version)
+- [To-do-list-application](https://github.com/Jude752/To-do-list-application)
+- [Rock-Paper-Scissors-game](https://github.com/Jude752/Rock-Paper-Scissors-game)
+- [typing-speed-test](https://github.com/Jude752/typing-speed-test)
+- [pharmacy_inventory_management](https://github.com/Jude752/pharmacy_inventory_management)
+- [WalletFriendlyApp](https://github.com/Jude752/WalletFriendlyApp)
+- [Bus-Pass-Qr-coded](https://github.com/Jude752/Bus-Pass-Qr-coded)
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
