@@ -68,7 +68,7 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
   </a>
 </p>
 
-<img src="https://tenor.com/view/fire-gif-23339431" width="30px"> Streak Stats
+## <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> Streak Stats
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="30"/>
