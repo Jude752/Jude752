@@ -149,7 +149,8 @@ I am a committed, enthusiastic, and hardworking Software Engineering student at 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src=https://tenor.com/view/fire-gif-23339431" width="30px">  Streak Stats
+<img src="https://tenor.com/bj5ob.gif" width="30px"> Streak Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jude752&theme=algolia" alt="JUDE" />
 </p>
