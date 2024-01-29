@@ -21,7 +21,7 @@
 
 I am a committed, enthusiastic, and hardworking Software Engineering student at the Open University of Sri Lanka (OUSL) with a passion for creating efficient and innovative solutions. I have developed a responsible approach to any task that I undertake. Computer literate with excellent communication and interpersonal skills. Seeking an opportunity to work where I can improve my skills, practice my knowledge, develop new skills, and gain valuable experience. Eager to contribute strong technical skills and a collaborative mindset to a dynamic development team.
 
-- 🔭 I’m currently working on [CodSoft internship projects](https://github.com/Jude752/CODSOFT.git)
+- 🔭 I’m currently working on [CodSoft internship projects](https://github.com/Jude752/CodSoft-Java.git)
 
 - 📫 How to reach me *vjudefernando@gmail.com*
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
